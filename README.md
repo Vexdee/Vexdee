@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Marianda
+- 👋 Hi, I’m Marianda
 - 👀 I’m interested in js, java, css, and mysql
 - 🌱 I’m currently learning js and java
 - 💞️ I’m looking to collaborate on small projects with js or java since I am still a script kiddie mostly
